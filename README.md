@@ -47,7 +47,7 @@ This project runs a Node.js server that must be publicly accessible so your iOS 
 2. **Install Node.js** (v18+ recommended).  
 3. **Clone the repository**:  
  ```bash
-    git clone "https://github.com/12x0/smishing-checker.git"
+    git clone "https://github.com/gawinecki/smishing-checker.git"
     cd smishing-checker
   ```
 4. **Install dependencies**:
