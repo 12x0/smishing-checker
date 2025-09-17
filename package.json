@@ -1,0 +1,20 @@
+{
+  "name": "smishing-checker",
+  "version": "1.0.0",
+  "description": "Simple phishing link checker with local JSON whitelist/blacklist",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "dotenv": "^17.2.2",
+    "express": "^5.1.0",
+    "node-fetch": "^2.7.0",
+    "pg": "^8.16.3"
+  }
+}
